@@ -27,13 +27,17 @@ El sistema se describe mediante un sistema de estados cuánticos, el cual repres
 ---
 Haciendo uso de los materiales mencionados anteriormente, y con algunas herramientas adicionales, se elaboró el montaje para el experimento que se muestra en las siguientes imágenes:
 
-<img src=https://github.com/JAPV-X2612/Experimento_Doble_Rendija/blob/main/I1.png width="200" height="240"/>
+<img align="center" src=https://github.com/JAPV-X2612/Experimento_Doble_Rendija/blob/main/I1.png width="200" height="240"/>
   
+<center>
 *Imagen 1. Montaje del experimento*
+<\center>
 
 <img src="https://github.com/JAPV-X2612/Experimento_Doble_Rendija/blob/main/I2.png" width="200" height="240"/>
 
+<center>
 *Imagen 2. Doble rendija*
+<\center>
 
 Una vez listo el montaje y ubicada la doble rendija en un lugar oscuro para efectos de una mejor visualización de los resultados, se procedió a encender el láser y a apuntarlo al centro de las dos ranuras, con lo cual parte de la luz se proyectó sobre la pared del fondo generando el patrón que se muestra a continuación:
 
